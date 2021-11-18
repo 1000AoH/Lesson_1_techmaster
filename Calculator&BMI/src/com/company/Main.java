@@ -21,6 +21,9 @@ public class Main {
 
         /* -------------Main-Bmi-parameter method--------- */
         System.out.println("Your BMI3 is " + bmi_3(1.74, 74));
+
+        /* -> Cách truyền tham số là ok nhất vì có thể tạo nhiều instances trên 1 method có sẵn */
+
     }
 
 
